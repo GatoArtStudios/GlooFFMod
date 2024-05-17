@@ -133,14 +133,43 @@ Adding Libraries to Inheritance
 Reading Input: C:\Users\GatoArtStudio\Documents\programacion\GlooFFMod\build\libs\glooffmod-1.0.0.0.jar
 Adding input to inheritance map
 Processing entries
+Conflicting propagated mapping for com/gatoartstudio/glooffmod/client/model/ParedGlooModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for com/gatoartstudio/glooffmod/client/model/ParedGlooModel/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V from net/minecraft/client/model/Model/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V: renderToBuffer -> m_7695_
+Conflicting propagated mapping for com/gatoartstudio/glooffmod/client/renderer/ParedGlooRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for com/gatoartstudio/glooffmod/entity/GlooEntity/registerGoals()V from net/minecraft/world/entity/Mob/registerGoals()V: registerGoals -> m_8099_
+Conflicting propagated mapping for com/gatoartstudio/glooffmod/item/Glooitem$1/makeIcon()Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/item/CreativeModeTab/makeIcon()Lnet/minecraft/world/item/ItemStack;: makeIcon -> m_6976_
 Adding extras
 Sorting
 Writing Output: C:\Users\GatoArtStudio\Documents\programacion\GlooFFMod\build\reobfJar\output.jar
   META-INF/
   META-INF/MANIFEST.MF
   META-INF/mods.toml
+  assets/
+  assets/glooffmod/
+  assets/glooffmod/lang/
+  assets/glooffmod/lang/en_us.json
+  assets/glooffmod/models/
+  assets/glooffmod/models/item/
+  assets/glooffmod/models/item/gloo.json
+  assets/glooffmod/textures/
+  assets/glooffmod/textures/entity/
+  assets/glooffmod/textures/entity/textureGloo.png
+  assets/glooffmod/textures/item/
+  assets/glooffmod/textures/item/gloo.png
   com/
   com/gatoartstudio/
   com/gatoartstudio/glooffmod/
+  com/gatoartstudio/glooffmod/Glooffmod$ClientModEvents.class
   com/gatoartstudio/glooffmod/Glooffmod.class
+  com/gatoartstudio/glooffmod/client/
+  com/gatoartstudio/glooffmod/client/model/
+  com/gatoartstudio/glooffmod/client/model/ParedGlooModel.class
+  com/gatoartstudio/glooffmod/client/renderer/
+  com/gatoartstudio/glooffmod/client/renderer/ParedGlooRenderer.class
+  com/gatoartstudio/glooffmod/entity/
+  com/gatoartstudio/glooffmod/entity/GlooEntity.class
+  com/gatoartstudio/glooffmod/entity/GlooEntityType.class
+  com/gatoartstudio/glooffmod/item/
+  com/gatoartstudio/glooffmod/item/Glooitem$1.class
+  com/gatoartstudio/glooffmod/item/Glooitem.class
   pack.mcmeta

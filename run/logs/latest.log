@@ -1,0 +1,94 @@
+[17may.2024 18:33:33.265] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeclientuserdev, --version, MOD_DEV, --assetIndex, 1.19, --assetsDir, C:\Users\GatoArtStudio\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[17may.2024 18:33:33.285] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.10 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[17may.2024 18:33:33.874] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/GatoArtStudio/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23126!/ Service=ModLauncher Env=CLIENT
+[17may.2024 18:33:34.063] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file C:\Users\GatoArtStudio\Documents\programacion\GlooFFMod\run\config\fml.toml is not correct. Correcting
+[17may.2024 18:33:34.093] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[17may.2024 18:33:35.319] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\GatoArtStudio\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.19.2-43.3.0\2edd99fb09dd01b6487188e8da2ce4b034d79217\javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[17may.2024 18:33:35.334] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\GatoArtStudio\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.19.2-43.3.0\5facdae56496bfc1ea0e1dbe1385463d7aa7bc69\lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[17may.2024 18:33:35.350] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\GatoArtStudio\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.19.2-43.3.0\3da09fccf425982d55412b36aaffe711fcff8740\mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[17may.2024 18:33:35.378] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\GatoArtStudio\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.19.2-43.3.0\5db2801308d3c89c8ef4750f3d8a402a8d3a7522\fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
+[17may.2024 18:33:35.964] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[17may.2024 18:33:41.037] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclientuserdev' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\GatoArtStudio\.gradle\caches\forge_gradle\assets, --assetIndex, 1.19]
+[17may.2024 18:33:59.663] [pool-3-thread-1/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[17may.2024 18:34:04.489] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/GatoArtStudio/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.19.2-43.3.0_mapped_official_1.19.2/forge-1.19.2-43.3.0_mapped_official_1.19.2-recomp.jar%23188!/assets/.mcassetsroot' uses unexpected schema
+[17may.2024 18:34:04.491] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/GatoArtStudio/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.19.2-43.3.0_mapped_official_1.19.2/forge-1.19.2-43.3.0_mapped_official_1.19.2-recomp.jar%23188!/data/.mcassetsroot' uses unexpected schema
+[17may.2024 18:34:04.547] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17may.2024 18:34:04.561] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[17may.2024 18:34:04.830] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
+[17may.2024 18:34:06.238] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
+[17may.2024 18:34:06.239] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
+[17may.2024 18:34:11.356] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: [glooffmod]
+[17may.2024 18:34:11.377] [Render thread/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/]: Exception caught during firing event: null
+	Index: 1
+	Listeners:
+		0: NORMAL
+		1: net.minecraftforge.eventbus.EventBus$$Lambda$4297/0x000002a810a3b730@2d38db6f
+		2: ASM: class com.gatoartstudio.glooffmod.Glooffmod$ClientModEvents registerLayerDefinitions(Lnet/minecraftforge/client/event/EntityRenderersEvent$RegisterLayerDefinitions;)V
+java.lang.ExceptionInInitializerError
+	at TRANSFORMER/glooffmod@1.0.0.0/com.gatoartstudio.glooffmod.Glooffmod$ClientModEvents.registerLayerDefinitions(Glooffmod.java:56)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at LAYER PLUGIN/javafmllanguage@1.19.2-43.3.0/net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:107)
+	at LAYER PLUGIN/fmlcore@1.19.2-43.3.0/net.minecraftforge.fml.ModLoader.lambda$postEvent$34(ModLoader.java:306)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at LAYER PLUGIN/fmlcore@1.19.2-43.3.0/net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:225)
+	at LAYER PLUGIN/fmlcore@1.19.2-43.3.0/net.minecraftforge.fml.ModLoader.postEvent(ModLoader.java:306)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.Minecraft.<init>(Minecraft.java:550)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.run(Main.java:176)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.client.main.Main.main(Main.java:51)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.19.2-43.3.0/net.minecraftforge.fml.loading.targets.ForgeClientUserdevLaunchHandler.lambda$launchService$0(ForgeClientUserdevLaunchHandler.java:25)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+Caused by: net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: modid:ParedGlooModel
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:37)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:46)
+	at TRANSFORMER/glooffmod@1.0.0.0/com.gatoartstudio.glooffmod.client.model.ParedGlooModel.<clinit>(ParedGlooModel.java:19)
+	... 26 more
+
+[17may.2024 18:34:11.395] [Render thread/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Caught exception during event net.minecraftforge.client.event.EntityRenderersEvent$RegisterLayerDefinitions@77cd235b dispatch for modid glooffmod
+java.lang.ExceptionInInitializerError: null
+	at com.gatoartstudio.glooffmod.Glooffmod$ClientModEvents.registerLayerDefinitions(Glooffmod.java:56) ~[%23193!/:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.3.jar%23113!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.3.jar%23113!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%23113!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%23113!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:107) ~[javafmllanguage-1.19.2-43.3.0.jar%23189!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$postEvent$34(ModLoader.java:306) ~[fmlcore-1.19.2-43.3.0.jar%23192!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:225) ~[fmlcore-1.19.2-43.3.0.jar%23192!/:?]
+	at net.minecraftforge.fml.ModLoader.postEvent(ModLoader.java:306) ~[fmlcore-1.19.2-43.3.0.jar%23192!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:550) ~[forge-1.19.2-43.3.0_mapped_official_1.19.2-recomp.jar%23188!/:?]
+	at net.minecraft.client.main.Main.run(Main.java:176) ~[forge-1.19.2-43.3.0_mapped_official_1.19.2-recomp.jar%23188!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[forge-1.19.2-43.3.0_mapped_official_1.19.2-recomp.jar%23188!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.ForgeClientUserdevLaunchHandler.lambda$launchService$0(ForgeClientUserdevLaunchHandler.java:25) ~[fmlloader-1.19.2-43.3.0.jar%23101!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.9.jar%23114!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.9.jar%23114!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.9.jar%23114!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) [modlauncher-10.0.9.jar%23114!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) [modlauncher-10.0.9.jar%23114!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.9.jar%23114!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.9.jar%23114!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+Caused by: net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: modid:ParedGlooModel
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:37) ~[forge-1.19.2-43.3.0_mapped_official_1.19.2-recomp.jar%23188!/:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:46) ~[forge-1.19.2-43.3.0_mapped_official_1.19.2-recomp.jar%23188!/:?]
+	at com.gatoartstudio.glooffmod.client.model.ParedGlooModel.<clinit>(ParedGlooModel.java:19) ~[%23193!/:?]
+	... 26 more
+[17may.2024 18:34:12.088] [Render thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 367d8753-d720-4106-b41c-050c4166be83
+[17may.2024 18:34:12.149] [Render thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID c0362b20-d211-42f9-84fb-bad52378e426
